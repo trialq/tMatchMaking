@@ -1,0 +1,22 @@
+{
+    "context": "client",
+    "identifier": "com.pa.trialq.tMatchMaking",
+    "display_name": "Match Making",
+    "description": "Exposes the match making partially implemented by Uber (not for mainstream use, WIP functionality is exposed for those who want to test it)",
+    "author": "trialq",
+    "version": "0.1",
+    "build": "68767",
+    "date": "2014/07/22",
+    "forum":"https://forums.uberent.com/threads/62125/",
+    "signature": "not yet implemented",
+    "category": [
+        "in-game"
+    ],
+    "scenes": {
+        "start": [
+            "coui://ui/mods/tMatchMaking/start/js.js"
+        ]
+    },
+    "priority": 100,
+    "enabled": true
+}
